@@ -18,7 +18,6 @@ The dataset used in this project contains:
 - Area
 
 The data is used to track and analyze health statistics across multiple regions over time
-## Dashboard Feature
 
 ![Dashboard](https://github.com/devathavishnuvardhan/Health-Analysis-Dashboard/blob/0da1cb2435a6cb4dbf90db0c59f87e112c0812f2/Dashboard.png)
 
