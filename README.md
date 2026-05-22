@@ -7,18 +7,12 @@ This project helps users understand global health trends through data-driven ana
 
 The dataset used in this project contains:
 
-• Province/State
-
-• Country/Region
-
-• Latitude and Longitude
-
-• Date
-
-• Confirmed Cases
-
-• Status
-
-• Area
+ -Province/State
+- Country/Region
+- Latitude and Longitude
+-  Date
+- Confirmed Cases
+- Status
+- Area
 
 The data is used to track and analyze health statistics across multiple regions over time
