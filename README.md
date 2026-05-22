@@ -20,3 +20,10 @@ The dataset used in this project contains:
 The data is used to track and analyze health statistics across multiple regions over time
 ## Dashboard Feature
 ### KPI Cards
+
+KPI Cards
+
+-    Total Cases
+-    Confirmed Cases
+-    Recovered Cases
+-    Death Cases
