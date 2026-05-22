@@ -7,7 +7,7 @@ This project helps users understand global health trends through data-driven ana
 
 The dataset used in this project contains:
 
- -Province/State
+- Province/State
 - Country/Region
 - Latitude and Longitude
 -  Date
