@@ -3,7 +3,7 @@ The Health Analysis Dashboard is an interactive Power BI project developed to an
 
 This project helps users understand global health trends through data-driven analysis and graphical representations.
 
-##Dataset Information
+-#Dataset Information
 
 The dataset used in this project contains:
 
