@@ -20,7 +20,7 @@ The dataset used in this project contains:
 The data is used to track and analyze health statistics across multiple regions over time
 ## Dashboard Feature
 
-![Dashboard](dashboard.png)
+![Dashboard](Health Data analysis)
 
 ### KPI Cards
 
