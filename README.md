@@ -18,3 +18,4 @@ The dataset used in this project contains:
 - Area
 
 The data is used to track and analyze health statistics across multiple regions over time
+## Dashboard Feature
